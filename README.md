@@ -9,9 +9,7 @@ Marketing Effectiveness: Evaluate the impact of marketing channels (Instagram, G
 Return Analysis: Investigate the relationship between discounts, product categories, and return rates.
 Inventory Insights: Assess stockout risks and create predictive models for inventory management.
 Repository Structure
-bash
-Copy
-Edit
+
 SAADAA-Data-Science-Assessment/
 │
 ├── data/                # Contains dataset used for analysis
@@ -26,20 +24,15 @@ SAADAA-Data-Science-Assessment/
 ├── requirements.txt     # List of dependencies for the project
 │
 └── README.md            # Project overview and instructions
+
 Getting Started
 Follow these steps to run the project on your local machine:
 
 1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/SAADAA-Data-Science-Assessment.git
+git clone https://github.com/Shubham10gupta/SAADAA-Data-Science-Assessment.git
 2. Install the Required Dependencies
 Make sure you have Python installed. Then, create a virtual environment (optional) and install the dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Run the Analysis
 Open the Jupyter Notebook analysis.ipynb located in the notebooks/ folder to follow the data analysis steps and explore the findings.
